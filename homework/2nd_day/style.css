@@ -1,0 +1,78 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
+body {
+  background-color: #f6f6f6;
+  padding: 50px 25px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  max-width: 480px;
+  width: 100%;
+  margin: 0 auto;
+}
+.main-div {
+  border: 1px solid black;
+  height: 680px;
+  padding: 25px 28px 40px;
+  box-sizing: border-box;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+header > h1 {
+  font-size: 66px;
+  font-weight: 900;
+}
+header > h2 {
+  font-size: 25px;
+  font-weight: 700;
+}
+hr {
+  border-color: black;
+}
+.text-content span {
+  font-size: 1px;
+}
+.text-content {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+.text-content__div:first-child {
+  display: flex;
+}
+.text-content__column {
+  display: flex;
+  flex-direction: column;
+}
+.text-content__div:first-child > .text-content__column:first-child {
+  margin-right: 25px;
+}
+main {
+  display: flex;
+  justify-content: center;
+}
+.container {
+  width: 100%;
+  display: flex;
+  height: 409px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: space-between;
+}
+.container__circle {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+}
+.container__circle:nth-child(n):not(:nth-child(n + 4)) {
+  background-color: #bbdff0;
+}
+.container__circle:nth-child(n + 4):not(:nth-child(n + 7)) {
+  background-color: #616365;
+}
+.container__circle:nth-child(n + 7):not(:nth-child(n + 10)) {
+  background-color: #04a565;
+}
