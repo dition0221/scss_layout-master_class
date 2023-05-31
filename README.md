@@ -13,14 +13,14 @@ Flexbox, Grid에 대한 개념이해와 실전연습.
 노마드 코더 정책 상 강의요약은 괜찮으나, 코드와 필기는 공개적인 곳에 올리면 안 됨.  
 필기 요약지는 암호화된 .zip 파일로 저장함.
 
-- **23-05-29** : #0.0 ~ #1.3 / Flexbox(1)
+- **23-05-29** : #0.0 ~ #1.3 / Flexbox(1) (+ Quiz)
   - display: flex, flex-container
   - flex-direction, justify-content, align-items / main axis, cross axis
-- **23-05-30** : #1.4 ~ #1.9 / Flexbox(2)
+- **23-05-30** : #1.4 ~ #1.9 / Flexbox(2) (+ Code Challenge)
   - align-self, order
   - flex-wrap, align-content
   - flex-shrink, flex-grow, flex-basis
-- **23-05-31** : #2.1 ~ #2.4 / Grid(1)
+- **23-05-31** : #2.1 ~ #2.5 / Grid(1) (+ Code Challenge)
   - display: grid, fr단위, repeat
   - grid-template-columns, grid-template-rows
   - column-gap, row-gap, gap
@@ -29,10 +29,14 @@ Flexbox, Grid에 대한 개념이해와 실전연습.
 
 ---
 
-- **23-06-01** : #2.5 ~ #2.8 / Grid(2)
-- **23-06-02** : #2.9 ~ #2.15 / Grid(3)
-- **23-06-03** : #3.0 ~ #3.4 / SCSS
+- **23-06-01** : #2.5 ~ #2.8 / Grid(2) (+ Code Challenge)
+- **23-06-02** : #2.9 ~ #2.15 / Grid(3) (+ Code Challenge)
+- **23-06-03** : #3.0 ~ #3.4 / SCSS (+ Quiz)
 
-- **23-06-05** : #4.0 ~ #4.8
-- **23-06-06** : #4.9 ~ #4.16
-- **23-06-07** : #4.17 ~ #4.21
+- **23-06-05** : #4.0 ~ #4.8 (+ Code Challenge)
+- **23-06-06** : #4.9 ~ #4.16 (+ Code Challenge(2 days)[1st day])
+- **23-06-07** : #4.17 ~ #4.21 (+ Code Challenge(2 days)[2nd day])
+- **23-06-08** : (+ Code Challenge)
+- **23-06-09** : (+ Code Challenge(2 days)[1st day])
+- **23-06-10** : (+ Code Challenge(2 days)[2nd day])
+- **23-06-11** : (+ Code Challenge)
