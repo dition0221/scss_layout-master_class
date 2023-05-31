@@ -20,3 +20,19 @@ Flexbox, Grid에 대한 개념이해와 실전연습.
   - align-self, order
   - flex-wrap, align-content
   - flex-shrink, flex-grow, flex-basis
+- **23-05-31** : #2.1 ~ #2.4 / Grid(1)
+  - display: grid, fr단위, repeat
+  - grid-template-columns, grid-template-rows
+  - column-gap, row-gap, gap
+  - grid-template-areas, grid-area
+  - Rows & Columns : grid-column(-start, -end) , grid-row(-start, -end), span
+
+---
+
+- **23-06-01** : #2.5 ~ #2.8 / Grid(2)
+- **23-06-02** : #2.9 ~ #2.15 / Grid(3)
+- **23-06-03** : #3.0 ~ #3.4 / SCSS
+
+- **23-06-05** : #4.0 ~ #4.8
+- **23-06-06** : #4.9 ~ #4.16
+- **23-06-07** : #4.17 ~ #4.21
