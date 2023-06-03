@@ -13,6 +13,8 @@ Flexbox, Grid에 대한 개념이해와 실전연습.
 노마드 코더 정책 상 강의요약은 괜찮으나, 코드와 필기는 공개적인 곳에 올리면 안 됨.  
 필기 요약지는 암호화된 .zip 파일로 저장함.
 
+**<'Code Challenge' 클릭 시 해당 작품 확인 가능>**
+
 - **23-05-29** : #0.0 ~ #1.3 / Flexbox(1) (+ Quiz)
   - display: flex, flex-container
   - flex-direction, justify-content, align-items / main axis, cross axis
@@ -36,10 +38,10 @@ Flexbox, Grid에 대한 개념이해와 실전연습.
   - minmax
   - auto-fill, auto-fit
   - min-content, max-content
+- **23-06-03** : #3.0 ~ #3.4 / SCSS (+ Quiz)
+  - SCSS, variable{\$변수명}, nesting, mixin{@include, $변수명}, extend{%, @extend, @content}
 
 ---
-
-- **23-06-03** : #3.0 ~ #3.4 / SCSS (+ Quiz)
 
 - **23-06-05** : #4.0 ~ #4.8 (+ Code Challenge)
 - **23-06-06** : #4.9 ~ #4.16 (+ Code Challenge(2 days)[1st day])
