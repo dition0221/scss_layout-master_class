@@ -40,10 +40,11 @@ Flexbox, Grid에 대한 개념이해와 실전연습.
   - min-content, max-content
 - **23-06-03** : #3.0 ~ #3.4 / SCSS (+ Quiz)
   - SCSS, variable{\$변수명}, nesting, mixin{@include, $변수명}, extend{%, @extend, @content}
+- **23-06-05** : (+ <a href="https://css-master-8th-day.dition0221.repl.co/">Code Challenge</a>)
 
 ---
 
-- **23-06-05** : #4.0 ~ #4.8 (+ Code Challenge)
+- #4.0 ~ #4.8
 - **23-06-06** : #4.9 ~ #4.16 (+ Code Challenge(2 days)[1st day])
 - **23-06-07** : #4.17 ~ #4.21 (+ Code Challenge(2 days)[2nd day])
 - **23-06-08** : (+ Code Challenge)
