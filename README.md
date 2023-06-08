@@ -42,11 +42,11 @@ Flexbox, Grid에 대한 개념이해와 실전연습.
   - SCSS, variable{\$변수명}, nesting, mixin{@include, $변수명}, extend{%, @extend, @content}
 - **23-06-05** : (+ <a href="https://css-master-8th-day.dition0221.repl.co/">Code Challenge</a>)
 - **23-06-07** : (+ <a href="https://css-master-9th-day.dition0221.repl.co/">Code Challenge(2 days)[2nd day]</a>)
+- **23-06-08** : (+ <a href="https://css-master-10th-day.dition0221.repl.co/">Code Challenge</a>)
 
 ---
 
 - #4.0 ~ #4.21
-- **23-06-08** : (+ Code Challenge)
 - **23-06-09** : (+ Code Challenge(2 days)[1st day])
 - **23-06-10** : (+ Code Challenge(2 days)[2nd day])
 - **23-06-11** : (+ Code Challenge)
