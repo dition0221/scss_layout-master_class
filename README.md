@@ -4,9 +4,12 @@
 
 #### [23-05-29 ~ 23-06-12(2주)] 챌린지 교육 과정.
 
-CSS 마스터를 위한 모든 것.
-SCSS, Flexbox, CSS Grid.
+CSS 마스터를 위한 모든 것.  
+SCSS, Flexbox, CSS Grid.  
 Flexbox, Grid에 대한 개념이해와 실전연습.
+
+🎉노마드코더 파이썬 챌린지 33기 우수 졸업생으로 선정🎉  
+(https://nomadcoders.co/community/thread/7962)
 
 ---
 
@@ -43,10 +46,5 @@ Flexbox, Grid에 대한 개념이해와 실전연습.
 - **23-06-05** : (+ <a href="https://css-master-8th-day.dition0221.repl.co/">Code Challenge</a>)
 - **23-06-07** : (+ <a href="https://css-master-9th-day.dition0221.repl.co/">Code Challenge(2 days)[2nd day]</a>)
 - **23-06-08** : (+ <a href="https://css-master-10th-day.dition0221.repl.co/">Code Challenge</a>)
-
----
-
-- #4.0 ~ #4.21
-- **23-06-09** : (+ Code Challenge(2 days)[1st day])
-- **23-06-10** : (+ Code Challenge(2 days)[2nd day])
-- **23-06-11** : (+ Code Challenge)
+- **23-06-10** : (+ <a href="https://css-master-11th-day.dition0221.repl.co/">Code Challenge(2 days)[2nd day]</a>)
+- **23-06-11** : (+ <a href="https://css-master-13th-day.dition0221.repl.co/">Code Challenge</a>)
