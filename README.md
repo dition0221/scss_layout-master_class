@@ -8,7 +8,7 @@ CSS 마스터를 위한 모든 것.
 SCSS, Flexbox, CSS Grid.  
 Flexbox, Grid에 대한 개념이해와 실전연습.
 
-🎉노마드코더 파이썬 챌린지 33기 우수 졸업생으로 선정🎉  
+🎉노마드코더 **CSS 챌린지 33기 우수 졸업생**으로 선정🎉  
 (https://nomadcoders.co/community/thread/7962)
 
 ---
